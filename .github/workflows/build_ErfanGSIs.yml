@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aabuprbnhesxouary6qic3v3rlr2o888.node.ppio.cloud:35672/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17_Pro/9.2.0.0/cn/20211116013040/d09b4446/update.zip?f_ver=v1&max_age=7776000&r=CwUSQDped2BeGQsXFgMbEU0cA1kzEXYsVx1WPAgQBAMCAwMfDwghIl1fFB8IGBxFVC42QiZLYWEKXklUUU0KGkxDVgJ4VWl%2BDkBISVFWWVsHQV9SfVBseRcFCR4AFgxaGRgWDAEDXioANn5XABwUAgYHRQ%3D%3D&ppiouid=61b4553c1be08a0001bec5017260b7ec
+  ROM_URL: http://mtw.so/6lNxRw
   ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
